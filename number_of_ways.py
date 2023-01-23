@@ -58,7 +58,11 @@ def test_number_of_ways():
     It can be proven that no other way is possible, so we return 3.
     """
     print(numberOfWays(1, 2, 3))
+<<<<<<< HEAD
     print("hello world")
 
+=======
+    print("hello world2")
+>>>>>>> new_features
 if __name__ == "__main__":
     test_number_of_ways()
